@@ -84,12 +84,12 @@ Previously **Data Scientist Intern @ Ascenta** · **Campus Partner @ Perplexity 
   ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝   
 ```
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-sunjog-thind-a34741161/)
 [![Website](https://img.shields.io/badge/ranasunjogthind.com-98c379?style=flat&logo=googlechrome&logoColor=white)](https://ranasunjogthind.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sunjogthind)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sunjogthind@gmail.com)
+
+<div align="center">
 
 ```
  ╔══════════════════════════════════════════════════════════╗
