@@ -94,7 +94,7 @@ Previously **Data Scientist Intern @ Ascenta** · **Campus Partner @ Perplexity 
 ```
  ╔══════════════════════════════════════════════════════════╗
  ║                                                          ║
- ║   Open to collaboration on ML/NLP projects & hackathons  ║
+ ║   Open to collaboration on projects & hackathons         ║
  ║                                                          ║
  ║              :wq — thanks for stopping by!               ║
  ║                                                          ║
