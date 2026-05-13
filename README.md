@@ -84,10 +84,10 @@ Previously **Data Scientist Intern @ Ascenta** · **Campus Partner @ Perplexity 
   ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝   
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-sunjog-thind-a34741161/)
-[![Website](https://img.shields.io/badge/ranasunjogthind.com-98c379?style=flat&logo=googlechrome&logoColor=white)](https://ranasunjogthind.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sunjogthind)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sunjogthind@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sunjogthind-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rana-sunjog-thind-a34741161/)
+[![Website](https://img.shields.io/badge/Website-ranasunjogthind.com-blue?style=social&logo=googlechrome)](https://ranasunjogthind.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-sunjogthind-blue?style=social&logo=github)](https://github.com/sunjogthind)
+[![Email](https://img.shields.io/badge/Email-sunjogthind-blue?style=social&logo=gmail)](mailto:sunjogthind@gmail.com)
 
 <div align="center">
 
