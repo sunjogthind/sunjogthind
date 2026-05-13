@@ -99,11 +99,7 @@ Previously **Data Scientist Intern @ Ascenta** · **Campus Partner @ Perplexity 
  ║              :wq — thanks for stopping by!               ║
  ║                                                          ║
  ╚══════════════════════════════════════════════════════════╝
-```
 
-[![Visitors](https://komarev.com/ghpvc/?username=sunjogthind&style=flat-square&color=c678dd&label=visitors)](https://github.com/sunjogthind)
-
-```
 -- NORMAL --                              rana_thind.lua  utf-8  100%
 ```
 
