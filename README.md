@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="assets/header.svg" width="700" alt="Rana Thind"/>
-
 </div>
 
 ---
