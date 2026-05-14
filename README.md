@@ -12,13 +12,11 @@
  ╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝    ╚═╝       ╚═╝     ╚═╝╚══════╝
 ```
 
-Software Developer Intern @ **Investopedia (Dotdash Meredith)** · Edmonton, Canada
-Previously **Data Scientist Intern @ Ascenta** · **Campus Partner @ Perplexity AI**
+
 
 🎓 **University of Alberta** — B.Sc. Computing Science (Specialization) · Certificate in Innovation & Entrepreneurship
-🏆 **1st Place, AI Track** — Alberta GovTech Hackathon 2024
-🔬 **Research Assistant** — Streaming Deep Reinforcement Learning, University of Alberta
-🏛️ Elected Faculty of Science Rep · VP Entrepreneurship Club · GDSC · AI Society · Competitive Programming Club
+
+Prev. Software Developer Intern @ **Investopedia (Dotdash Meredith)** · Edmonton, Canada **Data Scientist Intern @ Ascenta** · **Campus Partner @ Perplexity AI**
 
 ---
 
