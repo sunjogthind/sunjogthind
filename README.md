@@ -16,7 +16,7 @@
 
 🎓 **University of Alberta** — B.Sc. Computing Science (Specialization) · Certificate in Innovation & Entrepreneurship
 
-Prev. Software Developer Intern @ **Investopedia (Dotdash Meredith)** , **Data Scientist Intern @ Ascenta** · **Campus Partner @ Perplexity AI**
+Prev. Software Developer Intern @ **Investopedia (Dotdash Meredith)** · **Data Scientist Intern @ Ascenta** · **Campus Partner @ Perplexity AI**
 
 ---
 
